@@ -1,11 +1,11 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
+SIJ
 
 AUTHOR:
 DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Websites: https://tmdsus0822.github.io/study/
 
 
 CREDITS:
